@@ -27,8 +27,8 @@ import { FeatureTitle } from "../components/features/title"
 import { Community, Health, Hours, Path, Tech } from "../components/features/card"
 import { TestCard } from "../components/TestimonialCard"
 import Shawna from "../../../public/images/shawna.svg"
-import Adam from "../../../public/images/Adam.svg"
-import Alisa from "../../../public/images/Alisa.svg"
+import Adam from "../../../public/images/adam.svg"
+import Alisa from "../../../public/images/alisa.svg"
 import Footer from "../components/Footer"
 
 const slides = [
